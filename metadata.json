@@ -1,0 +1,8 @@
+{
+  "name": "Floor Candy",
+  "description": "Premium floor restoration and decorative concrete company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
